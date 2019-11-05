@@ -25,7 +25,7 @@
              </button>
          </div>
                 <div class="navbar-brand">
-                    <img src="file:///C:/Users/USER/Downloads/Path%201.svg" class="img img-responsive" height="30" width="auto">
+                    <img src="" height="30" width="auto">
                         </a>
                          </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
