@@ -6,24 +6,30 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Stay Busy.</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="icon" type="img/png" href="images/hng-favicon.png">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap"
+          rel="stylesheet">
 </head>
 <body>
 
 <header class="top-navigation">
     <nav class="navbar navbar-expand-lg navbar-light ">
 
-         <div class="nav-container d-flex justify-content-between">
-             <a class="navbar-brand" href="#"><img id="staybusy-logo" src="https://res.cloudinary.com/itunuo/image/upload/v1572975634/Group_585_j3tduw.svg"></a>
-             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                 <span class="navbar-toggler-icon"></span>
-             </button>
-         </div>
+        <div class="nav-container d-flex justify-content-between">
+            <a class="navbar-brand" href="#"><img id="staybusy-logo"
+                                                  src="https://res.cloudinary.com/itunuo/image/upload/v1572975634/Group_585_j3tduw.svg"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="clearfix" style="width: 70%"></div>
             <ul class="navbar-nav mr-auto">
@@ -45,86 +51,206 @@
 
 
 <section id="screenshot-section">
-        <div class="screenshot-container">
-            <div class="container row">
-              
-    
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-    
-                        <div class="row  wow slideInUp" style="margin: 50px 0;">
-                                <div class="row align-items-center m-4">
-                                            <h1 class="mb-4 mt-3" style="color:#105293;">We give your <br> businness a story</h1>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio pulvinar leo eu sit. Orci tempus ac dolor venenatis egestas sem etiam. Contact us.</p>
-                                     </div>
-                                    </div>
-                                      </div>
-                    <div class="screenshot d-flex col-lg-6 col-md-12 col-sm-12">
-    
-                               <div class="screenshot-image screenshot  wow slideInUp" style="margin-top: 110px;">
-                                   <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975719/android_1_a6cosj.svg">
-                               </div>
-                          
-                          
-                               <div class="screenshot-image  screenshot  wow slideInUp"  style="margin-left: -80px;">
-                                   <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975721/android_zeeapi.svg">
-                            </div>
-                  
-                            </div>
-                   
-    
-                
-            </div>
-    
-        </div>
-    </section>
-</section>
-<section id="think-section" class="heartBeat">
-        <div class="think-container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-lg-end">
-                                <div class="think-image">
-     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975637/Group_509_nq7cdi.svg">
-    </div>
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-lg-start">
-                <div class=" wow slideInUp">
-                  <ul class="styledList justify-content-sm-between">
-                      <li class="link-list">Think</li>
-                      <li class="link-list">Research</li>
-                      <li class="link-list" style="color:rgba(16, 82, 147, 0.7);">Design</li>
-                      <li class="link-list">Create</li>
-                  </ul>
+    <div class="screenshot-container">
+        <div class="container row">
+
+
+            <div class="col-lg-6 col-md-12 col-sm-12">
+
+                <div class="row  wow slideInUp" style="margin: 50px 0;">
+                    <div class="row align-items-center m-4">
+                        <h1 class="mb-4 mt-3">We give your <br> businness a story</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio pulvinar leo eu sit. Orci
+                            tempus ac dolor venenatis egestas sem etiam. Contact us.</p>
+                    </div>
                 </div>
-</div>
-</div>
-    </div>
+            </div>
+            <div class="screenshot d-flex col-lg-6 col-md-12 col-sm-12">
+
+                <div class="screenshot-image screenshot  wow slideInUp" style="margin-top: 110px;">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975719/android_1_a6cosj.svg">
+                </div>
+
+
+                <div class="screenshot-image  screenshot  wow slideInUp" style="margin-left: -80px;">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975721/android_zeeapi.svg">
+                </div>
+
+            </div>
+
+
         </div>
-    
-            
+
+    </div>
+</section>
 
 
-</body>
-</html>
+<section id="think-section" class="row">
+    <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-lg-end justify-content-center">
+        <div class="think-image">
+            <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975637/Group_509_nq7cdi.svg">
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-12 col-sm-12 d-flex justify-content-lg-start justify-content-center">
+        <div class=" wow slideInUp">
+            <ul class="styledList justify-content-sm-between">
+                <li class="link-list">Think</li>
+                <li class="link-list">Research</li>
+                <li class="link-list" style="color:rgba(16, 82, 147, 0.7);">Design</li>
+                <li class="link-list">Create</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+<section id="responsive-design-section" class="mt-3">
+    <header class="p-4">
+        <h2 class="text-center">Responsive Design </h2>
+        <p class="text-center">For all screen sizes</p>
+    </header>
+
+
+    <div class="d-flex justify-content-center center-image">
+
+        <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975736/Group_552_d2qsj2.svg"/>
+
+    </div>
+
+</section>
+
+
+<section id="gallery-section" class="mt-2 p-5">
+    <header class="p-4">
+        <h2 class="text-center">Our Work</h2>
+    </header>
+
+    <div class="gallery-container d-flex justify-content-center">
+
+        <div class="row">
+
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975735/screencapture-aux-ng-2019-10-31-12_00_18_tqcah2.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975635/Group_582_djsucs.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975703/wazobia_fm_logo_1_hfiqvl.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975704/969loop_e4hnex.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975635/Group_582_djsucs.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="gallery-img">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975703/wazobia_fm_logo_1_hfiqvl.svg"
+                         width="100%">
+                </div>
+                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                </p>
+            </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
 <style>
 
-   
-    .logo-box{
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+    .logo-box {
         width: 300px;
     }
 
-    .screenshot-container{
-      background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572975634/Group_507_qvvxvb.svg");
-        padding: 0px;
-    }
-    .top-navigation{
-   background: linear-gradient( to left,rgb(211, 229, 246) 30%,#F2F9FF 100%);
+    #sponsor-section {
+        width: 100%;
+        display: flex;
+        justify-content: center;
     }
 
-    .top-navigation .navbar-brand{
-        width: 200px;
-       padding-top: 12px;
+    .screenshot-container {
+        background-image: url("");
+        padding: 0px;
     }
-    .top-navigation .navbar-brand img{
+
+    #screenshot-section {
+        background: url("https://res.cloudinary.com/itunuo/image/upload/v1572975634/Group_507_qvvxvb.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    #screenshot-section h1 {
+        color: #105293;
+        font-weight: 900;
+    }
+
+    #screenshot-section p {
+        color: #999;
+    }
+
+    .top-navigation {
+        background: linear-gradient(to left, rgb(211, 229, 246) 30%, #F2F9FF 100%);
+    }
+
+    .navbar {
+        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572975731/Path_1_mo7qnl.svg") ;
+        background-repeat: no-repeat;
+        background-position: 50%;
+    }
+
+    .top-navigation .navbar-brand {
+        width: 200px;
+        padding-top: 12px;
+    }
+
+    .top-navigation .navbar-brand img {
         width: 125%;
         margin-left: 50%;
     }
@@ -134,22 +260,82 @@
         .top-navigation .navbar .nav-container {
             width: 100%;
         }
+
         .top-navigation .navbar-brand img {
             width: 90%;
             margin-left: 10%;
         }
     }
-    .nav-link{
+
+    #navbarSupportedContent .nav-link {
         font-size: 17px;
-        font-family:"Open Sans", "segoe UI", sans-serif;
-        color: #474747;
+        color: #1989eb;
+        font-weight: bold;
     }
+
     #navbar-brand:hover {
         color: white;
         background-color: rgb(161, 162, 163);
         text-decoration: none;
     }
-    .styledList{
+
+    #responsive-design-section {
+        background: url("https://res.cloudinary.com/itunuo/image/upload/v1572975702/Vector0_1_ojbicc.svg");
+        background-repeat: no-repeat;
+    }
+
+    #responsive-design-section h2 {
+        color: #105293;
+        font-weight: 800;
+        font-size: 36px;
+
+    }
+
+    #responsive-design-section p {
+        color: #105293;
+        font-weight: normal;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        font-size: 18px;
+    }
+
+    #responsive-design-section .center-image img {
+        width: 70%;
+    }
+
+
+    @media only screen and (max-width: 600px) {
+
+        #responsive-design-section .center-image img {
+            width: 80%;
+        }
+    }
+
+
+    #gallery-section h2 {
+        color: #105293;
+        font-weight: 800;
+        font-size: 36px;
+
+    }
+
+    #gallery-section .gallery-container .row {
+        max-width: 960px;
+    }
+
+    #gallery-section .gallery-container .p-gal {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    #gallery-section .gallery-container .p-gal img {
+        width: 10px;
+        margin-left: 5px;
+    }
+
+
+
+    .styledList {
         list-style: none;
         margin-right: 20%;
         padding: 10%;
@@ -160,38 +346,94 @@
 
     }
 
-    .h-color{
-         color: #084482;
+    .h-color {
+        color: #084482;
     }
 
-    .gallery-img{
+    .gallery-img {
         margin: 20px auto;
     }
 
-    .about-container{
+    .about-container {
         padding: 50px;
     }
 
-    .gal-row{
+    .gal-row {
         padding: 10px !important;
     }
 
-    .screenshot{
+    .screenshot {
         text-align: center;
     }
 
-    .screenshot-image{
-     
+    .screenshot-image img {
+        width: 100%;
     }
-    #think-section{
-        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572984098/Group_510_gdebqf.svg" );
-        width: 100;
+
+    #think-section {
+        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572959444/Group_510_dsi62q.svg");
+        width: 100%;
         height: 100%;
         padding: 12% 0%;
+    }
 
-    @media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
-     .ipad-landscape { 
-           display: none;}
+    .think-image img {
+        width: 400px;
+    }
+
+    @media screen and (max-width: 600px) {
+        .think-image img {
+            width: 300px;
+        }
+    }
+
+
+    .fa {
+        padding: 5px;
+        font-size: 18px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 70%;
+        box-shadow: 1px 3px 4px rgb(141, 139, 139);
+        background-color: white;
+        color: #00AEFF;
+    }
+
+    .fab {
+        padding: 5px;
+        font-size: 18px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+        border-radius: 70%;
+        box-shadow: 1px 3px 4px rgb(141, 139, 139);
+        background-color: white;
+        color: #00AEFF;
+    }
+
+    .btn-primary {
+        background: #00AEFF;
+        border-radius: 6px;
+        border: none;
+    }
+
+    #collapseBtn {
+        background: #00AEFF;
+        border-radius: 6px;
+        border: none;
+        color: rgb(248, 245, 245);
+    }
+
+    @media screen and (max-width: 600px) {
+
+        @media all and (device-width: 768px) and (device-height: 1024px) and (orientation: landscape) {
+            .ipad-landscape {
+                display: none;
+            }
+        }
+    }
+
 
 </style>
 
@@ -203,4 +445,5 @@
     new WOW().init();
 </script>
 
-
+</body>
+</html>
