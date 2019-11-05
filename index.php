@@ -117,7 +117,7 @@
     }
 
     .screenshot-container{
-      background-image: url("file:///C:/Users/USER/Downloads/Group%20507.svg");
+      background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572975634/Group_507_qvvxvb.svg");
         padding: 0px;
     }
     .top-navigation{
@@ -188,7 +188,7 @@
      
     }
     #think-section{
-        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572959444/Group_510_dsi62q.svg" );
+        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572984098/Group_510_gdebqf.svg" );
         width: 100;
         height: 100%;
         padding: 12% 0%;
