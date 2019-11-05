@@ -24,10 +24,6 @@
                  <span class="navbar-toggler-icon"></span>
              </button>
          </div>
-                <div class="navbar-brand">
-                    <img src="" height="30" width="auto">
-                        </a>
-                         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="clearfix" style="width: 70%"></div>
             <ul class="navbar-nav mr-auto">
