@@ -136,7 +136,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975735/screencapture-aux-ng-2019-10-31-12_00_18_tqcah2.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: AUX NG  <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -145,7 +145,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975635/Group_582_djsucs.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: NIGERIA INFO<img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -154,7 +154,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975703/wazobia_fm_logo_1_hfiqvl.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: NIGERIA INFO <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -164,7 +164,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975704/969loop_e4hnex.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: COOL FM <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -173,7 +173,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975635/Group_582_djsucs.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: NIGERIA INFO<img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -182,7 +182,7 @@
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975703/wazobia_fm_logo_1_hfiqvl.svg"
                          width="100%">
                 </div>
-                <p class="p-gal">HNG 6 Internship Popular Channels <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
+                <p class="p-gal">UX & BRAND DESIGN: NIGERIA INFO <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975697/Group_524_ioollu.svg">
                 </p>
             </div>
 
@@ -412,7 +412,7 @@
     }
 
     #gallery-section .gallery-container .p-gal img {
-        width: 15px;
+        width: 18px;
         margin-left: 5px;
     }
 
@@ -512,7 +512,7 @@
 
     @media screen and (max-width: 600px) {
         .think-image img {
-            width: 300px;
+            width: 320px;
         }
     }
 
