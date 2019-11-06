@@ -61,7 +61,8 @@
                     <div class="row align-items-center m-4">
                         <h1 class="mb-4 mt-3">We give your <br> businness a story</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio pulvinar leo eu sit. Orci
-                            tempus ac dolor venenatis egestas sem etiam. Contact us.</p>
+                            tempus ac dolor venenatis egestas sem etiam. <a class="contact" href="">Contact Us.</a></p>
+                   
                     </div>
                 </div>
             </div>
@@ -191,6 +192,99 @@
     </div>
 
 </section>
+<section id="footer-section">
+    <div class="footer-container  wow slideInLeft">
+        <div class="row">
+            <div class="footer-details col-lg-6 col-md-12 col-sm-6 mt-3">
+                <div class="Email pt-5" style="margin-left:30%">
+                    <h4>Send a mail</h4>
+                    <p>infof@staybusy.ng</p>
+                </div>
+               
+                <div class="Email pt-2" style="margin-left:30%">
+                        <h4>Call Us</h4>
+                        <p>+234 (0) 812 345 7890</p>
+                        <p>+234 (0) 812 345 7890</p>
+                    </div>
+                    <div class="Email pt-2" style="margin-left:30%">
+                            <h4>Follow Us</h4>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573008810/Vector_2_ymdo5n.svg" alt=""> </p>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573009035/Vector_7_cjuttu.svg" alt=""> </p>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573008811/Vector_3_gszz79.svg" alt=""> </p>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573008811/Vector_4_xao2ei.svg" alt=""> </p>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573008810/Vector_5_lre9lg.svg" alt=""> </p>
+                            <p class="follow-img"> <img src="https://res.cloudinary.com/itunuo/image/upload/v1573008811/Vector_6_gacjju.svg" alt=""> </p>
+                        </div><br>
+
+                        <div class="Email pt-2" style="margin-left:30%">
+                                <h4>Visit Us</h4>
+                                <p>1, Sesame Street, Yaba,<br>Lagos Nigeria</p>
+                                        
+                                 <a class="direction" href="">Get Direction</a></p>
+                            </div>
+                            <div class="footer-details">
+                                <div class="copyright" >
+                                        <p> © 2019 HNG internship. <br> All Rights Reserved. HNG Group</p>
+                                    </div>
+                        </div>
+                        </div>
+
+                        <div class="footer-form col-lg-6 col-md-12 col-sm-6 mt-3">
+                            <div class="contact mt-3" align="center">
+                                    <h3>Contact Us</h3>
+                                    <p>Want to work with us</p>
+                            </div>
+                           
+
+                            <form>                          
+
+                                <div class="form-group">
+
+                                    <label for="formGroupExampleInput"></label>
+
+                                    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Fullname">
+
+                                </div>
+
+                                <div class="form-group">
+
+                                    <label for="formGroupExampleInput2"></label>
+
+                                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Company">
+
+                                </div>
+
+                                <div class="form-group">
+
+                                    <label for="formGroupExampleInput2"></label>
+
+                                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Email Address">
+
+                                </div>
+
+                                <div class="form-group">
+   
+                                    <label for="formGroupExampleInput2"></label>
+   
+                                    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Phone Number">
+  </div>
+  <div class="form-group">
+   
+        <label for="formGroupExampleInput2"></label>
+
+        <textarea class="form-control" rows="5" id="comment"  placeholder="comment"></textarea>                   
+</div>
+<br>
+<button type="submit" class="btn btn-primary mb-2">Submit</button>
+</form>
+                                    
+                             </div>
+                            </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 <style>
 
@@ -201,17 +295,6 @@
     .row {
         margin-left: 0;
         margin-right: 0;
-    }
-
-
-    .logo-box {
-        width: 300px;
-    }
-
-    #sponsor-section {
-        width: 100%;
-        display: flex;
-        justify-content: center;
     }
 
     .screenshot-container {
@@ -320,7 +403,7 @@
     }
 
     #gallery-section .gallery-container .row {
-        max-width: 960px;
+        max-width: 980px;
     }
 
     #gallery-section .gallery-container .p-gal {
@@ -329,7 +412,7 @@
     }
 
     #gallery-section .gallery-container .p-gal img {
-        width: 10px;
+        width: 15px;
         margin-left: 5px;
     }
 
@@ -380,6 +463,47 @@
     .think-image img {
         width: 400px;
     }
+    .footer-form{
+        background-color: #D1E6FA;
+        padding: 0px;
+    }
+    .form-group{
+        width: 60%;
+        margin-left: 25%;
+    }
+    .form-group input{
+        font-size: 12px;
+    }
+    .follow-img{
+        display: inline;
+        padding: 5px;
+    }
+    .contact{
+        font-size: 18px;
+    }
+    .btn{
+        width: 55%;
+        border-radius: 5px;
+       margin-left: 28%;
+    }
+    .Email h4{
+        color: #105293;
+        font-size: 24px;
+    }
+    .footer-details{
+        background-color: #ECF4FD;
+        height: 55%;
+        position: relative; left: 0%; top: 50px;
+    }
+    .copyright{
+        background-color: white;
+        font-size: 10px;
+        margin-left: 20%;
+        
+    }
+        
+
+
 
     @media screen and (max-width: 600px) {
         .think-image img {
@@ -388,43 +512,7 @@
     }
 
 
-    .fa {
-        padding: 5px;
-        font-size: 18px;
-        text-align: center;
-        text-decoration: none;
-        margin: 5px 2px;
-        border-radius: 70%;
-        box-shadow: 1px 3px 4px rgb(141, 139, 139);
-        background-color: white;
-        color: #00AEFF;
-    }
-
-    .fab {
-        padding: 5px;
-        font-size: 18px;
-        text-align: center;
-        text-decoration: none;
-        margin: 5px 2px;
-        border-radius: 70%;
-        box-shadow: 1px 3px 4px rgb(141, 139, 139);
-        background-color: white;
-        color: #00AEFF;
-    }
-
-    .btn-primary {
-        background: #00AEFF;
-        border-radius: 6px;
-        border: none;
-    }
-
-    #collapseBtn {
-        background: #00AEFF;
-        border-radius: 6px;
-        border: none;
-        color: rgb(248, 245, 245);
-    }
-
+   
     @media screen and (max-width: 600px) {
 
         @media all and (device-width: 768px) and (device-height: 1024px) and (orientation: landscape) {
