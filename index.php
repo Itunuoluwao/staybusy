@@ -61,8 +61,8 @@
                     <div class="row align-items-center m-4">
                         <h1 class="mb-4 mt-3">We give your <br> businness a story</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio pulvinar leo eu sit. Orci
-                            tempus ac dolor venenatis egestas sem etiam. <a class="contact" href="">Contact Us.</a></p>
-                   
+                            tempus ac dolor venenatis egestas sem etiam. <a class="contact" href="">Contact us.</a></p>
+                            
                     </div>
                 </div>
             </div>
@@ -480,6 +480,7 @@
     }
     .contact{
         font-size: 18px;
+        color: #105293;
     }
     .btn{
         width: 55%;
@@ -501,6 +502,10 @@
         margin-left: 20%;
         
     }
+    .m-4 {
+        position: relative; left: 0%; top: 70px;
+    }
+
         
 
 
