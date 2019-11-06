@@ -74,7 +74,7 @@
 
 
                 <div class="screenshot-image  screenshot  wow slideInUp" style="margin-left: -80px;">
-                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975721/android_zeeapi.svg">
+                    <img src="https://res.cloudinary.com/itunuo/image/upload/v1573020097/Group_578_dcbm57.svg">
                 </div>
 
             </div>
@@ -323,7 +323,7 @@
     }
 
     .navbar {
-        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1572975731/Path_1_mo7qnl.svg") ;
+        background-image: url("https://res.cloudinary.com/itunuo/image/upload/v1573023188/Page_1_1_yvucdx.svg") ;
         background-repeat: no-repeat;
         background-position: 50%;
     }
@@ -480,7 +480,7 @@
     }
     .contact{
         font-size: 18px;
-        color: #105293;
+          color: #105293;
     }
     .btn{
         width: 55%;
