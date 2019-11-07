@@ -73,7 +73,7 @@
                 </div>
 
 
-                <div class="screenshot-image  screenshot  wow slideInUp" style="margin-left: -80px;">
+                <div class="screenshot-image  screenshot  wow slideInUp" style="margin-left: -55px;">
                     <img src="https://res.cloudinary.com/itunuo/image/upload/v1573020097/Group_578_dcbm57.svg">
                 </div>
 
@@ -111,12 +111,24 @@
         <p class="text-center">For all screen sizes</p>
     </header>
 
-
-    <div class="d-flex justify-content-center center-image">
-
-        <img src="https://res.cloudinary.com/itunuo/image/upload/v1572975736/Group_552_d2qsj2.svg"/>
-
-    </div>
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+              </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="https://res.cloudinary.com/itunuo/image/upload/v1572975736/Group_552_d2qsj2.svg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="https://res.cloudinary.com/itunuo/image/upload/v1573091537/Group_513_cbfp8c.svg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="https://res.cloudinary.com/itunuo/image/upload/v1572975736/Group_552_d2qsj2.svg" alt="Third slide">
+          </div>
+        </div>
+      </div>
 
 </section>
 
@@ -198,13 +210,13 @@
             <div class="footer-details col-lg-6 col-md-12 col-sm-6 mt-3">
                 <div class="Email pt-5" style="margin-left:30%">
                     <h4>Send a mail</h4>
-                    <p>infof@staybusy.ng</p>
+                    <p>info@staybusy.ng</p>
                 </div>
                
                 <div class="Email pt-2" style="margin-left:30%">
                         <h4>Call Us</h4>
-                        <p>+234 (0) 812 345 7890</p>
-                        <p>+234 (0) 812 345 7890</p>
+                        <p>+234 (0) 812 345 7890</p><p>+234 (0) 812 345 7890</p>
+                        
                     </div>
                     <div class="Email pt-2" style="margin-left:30%">
                             <h4>Follow Us</h4>
@@ -223,8 +235,8 @@
                                  <a class="direction" href="">Get Direction</a></p>
                             </div>
                             <div class="footer-details">
-                                <div class="copyright" >
-                                        <p> © 2019 HNG internship. <br> All Rights Reserved. HNG Group</p>
+                                <div class="" >
+                                        
                                     </div>
                         </div>
                         </div>
@@ -272,10 +284,10 @@
    
         <label for="formGroupExampleInput2"></label>
 
-        <textarea class="form-control" rows="5" id="comment"  placeholder="comment"></textarea>                   
+        <textarea class="form-control" rows="5" id="comment"  placeholder="Messasge"></textarea>                   
 </div>
 <br>
-<button type="submit" class="btn btn-primary mb-2">Submit</button>
+<button type="submit" class="btn btn-primary mb-2">Submit </button>
 </form>
                                     
                              </div>
@@ -285,6 +297,11 @@
         </div>
     </div>
 </section>
+<div class="copyright">
+    <p> © 2019 HNG internship. <br> All Rights Reserved. HNG Group</p>
+</div>
+
+</div>
 
 <style>
 
@@ -363,7 +380,7 @@
     }
 
     #responsive-design-section {
-        background: url("https://res.cloudinary.com/itunuo/image/upload/v1572975702/Vector0_1_ojbicc.svg");
+        background: url("https://res.cloudinary.com/itunuo/image/upload/v1573096252/Slice_2_2_xskrq5.svg");
         background-repeat: no-repeat;
     }
 
@@ -380,10 +397,6 @@
         text-transform: uppercase;
         letter-spacing: 5px;
         font-size: 18px;
-    }
-
-    #responsive-design-section .center-image img {
-        width: 70%;
     }
 
 
@@ -403,7 +416,7 @@
     }
 
     #gallery-section .gallery-container .row {
-        max-width: 980px;
+        max-width: 990px;
     }
 
     #gallery-section .gallery-container .p-gal {
@@ -412,7 +425,7 @@
     }
 
     #gallery-section .gallery-container .p-gal img {
-        width: 18px;
+        width: 19px;
         margin-left: 5px;
     }
 
@@ -464,32 +477,57 @@
         width: 400px;
     }
     .footer-form{
-        background-color: #D1E6FA;
+        background-color: rgba(209, 230, 250, 0.17);
         padding: 0px;
+        padding-bottom: 5%;;
     }
     .form-group{
         width: 60%;
         margin-left: 25%;
     }
     .form-group input{
-        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
     }
     .follow-img{
         display: inline;
         padding: 5px;
     }
-    .contact{
-        font-size: 18px;
-          color: #105293;
+    .form-control{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+
+    }
+    .contact h3{
+        color: #105293;
+        font-weight: 800;
+        font-size: 30px;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 10%;
+    }
+    .contact p{
+        color: #105293;
+        font-weight: normal;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
     }
     .btn{
-        width: 55%;
-        border-radius: 5px;
-       margin-left: 28%;
+        width: 59%;
+       margin-left: 25%;
+       color: #0d5092;
+       
     }
     .Email h4{
         color: #105293;
-        font-size: 24px;
+        font-weight: 800;
+        font-size: 22px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Email p{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
     }
     .footer-details{
         background-color: #ECF4FD;
@@ -497,13 +535,25 @@
         position: relative; left: 0%; top: 50px;
     }
     .copyright{
-        background-color: white;
-        font-size: 10px;
-        margin-left: 20%;
+        font-size: 13px;
+        font-family: 'Montserrat', sans-serif;
+        margin-left: 15%;
         
     }
     .m-4 {
         position: relative; left: 0%; top: 70px;
+    }
+    .carousel-inner {
+        width: 70%;
+        margin-left: 20%;
+       padding: 5% 0%;
+    }
+    .carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #084482;
+
     }
 
         
@@ -513,6 +563,9 @@
     @media screen and (max-width: 600px) {
         .think-image img {
             width: 320px;
+        }
+        .copyright{
+            margin-left: 25%;
         }
     }
 
